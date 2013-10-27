@@ -8,4 +8,4 @@ I broke out 16 I/O, to a FPC connector, as well as JTAG, a few LEDs and the FT23
 This board meets OSH Park 4 layer rules. 
 
 
-![img](http://i.srsfckn.biz/B41.png)
+![img](http://i.imgur.com/Y4Uac0X.png)
